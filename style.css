@@ -1,0 +1,49 @@
+/*
+Theme Name: Web Interactivity & Engagement Theme
+Theme URI:
+Author: Bryana Wall
+Subscription: This theme is a tutorial them for the web interactivity and engagement course at the University of Florida
+Version: 1.0
+License: Open 
+Text Domain: web_interactivity
+
+
+*/
+
+@import "css/normalize.css";
+@import "css/skeleton.css";
+
+body{
+    background-color: #d3d3d3;
+}
+
+.container{
+    background: white;
+    padding: 0 20px;
+    width: 80%;
+    margin: auto;
+}
+
+.column, .columns {
+    margin-left: 0%;
+}
+
+.one-half{
+    padding-top: 2%;
+}
+
+a{
+    color: black;
+}
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+
+h1{
+    background-color: black;
+    color: white; 
+    text-align: center;
+}
